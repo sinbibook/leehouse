@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-10-09T12:37:52.248436399Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-21T00:28:11.979147234Z",
     "templateType": "trip_e",
     "propertyId": "92eb7d57-41b5-4c08-87d5-ee4fae681032",
     "homepageId": "9c14180a-7ac4-4e2d-8936-55fa056fda44"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 독채 객실이며 단독 데크를 제공하는 J Stay 신규 오픈하였습니다※",
-    "usageGuide": "[공지사항]\n※ 독채 객실이며 단독 데크를 제공하는 J Stay 신규 오픈하였습니다※\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 독채 객실이며 단독 데크를 제공하는 J Stay 신규 오픈하였습니다※\n\n[인원추가정보]\n[연령기준]\n- 성인: 14세 이상\n- 아동: 12개월 이상~14세 미만\n- 유아: 12개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n유아:0~12개월 미만,침구류미제공\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 숯불\n- 제공 구성: 숯, 장갑, 가위, 집게 등\n- 이용 요금: 2인 기준 25,000원 / 1인 추가시 5,000원(1박기준/현장결제)\n- 이용 시간: 제한없음\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n※ 날씨 및 현장 상황에 따라 이용이 제한될 수 있습니다.\n※ 숯불은 직접 점화해 사용하시는 점 참고 부탁드립니다.\n\n[애견동반]\n- 이용 객실: 블루룸, 그린룸\n- 이용 요금: 1마리 무료, 추가 1마리당 10kg 이하 30,000원 / 11kg ~ 30kg 40,000원 / 31kg 이상 50,000원 (1박기준/현장결제)\n- 제한 무게: 제한없음\n- 제한 마릿수: 최대 3마리\n- 애견 비품: 애견 침대, 식기 세트, 미끄럼방지 매트, 2단 계단, 배변 패드 2장, 수건 2장, 물티슈, 돌돌이, 청소기\n※ 사전 문의 부탁드립니다.\n※ 쾌적한 환경 유지를 위해 배변은 즉시 정리 부탁드립니다.\n※ 반려견의 안전과 다른 이용객을 위해 기본적인 관리 및 케어를 부탁드립니다.\n\n[불멍]\n- 이용 객실: 핑크룸, 퍼플룸, 피치룸을 제외한 전 객실\n- 제공 구성: 장작 1망, 마시멜로우\n- 이용 요금: 20,000원(1박기준/현장결제)\n※ 날씨 및 현장 상황에 따라 이용이 제한될 수 있습니다.\n\n[주차장]\n- 주자창 보유\n- 주차 대수: 객실 당 최대 3대\n- 위치: 펜션 앞\n\n[교통편]\n[ 춘천이지만, 가평과 더 가깝습니다 ]\n\n- 가평역 5분  자라섬 4분  남이섬 7분\n- 북한강 바로 앞\n※ 모두 차량 기준\n\n[오시는 길 안내]\n- 경강교를 건너 춘천 방면으로 바로 우회전해주세요.\n- 이마트24에서 약 50m 이동하면 리버문 파란 간판 맞은편 언덕 위에 리하우스가 있습니다.\n\n[뚜벅이 픽업 안내]\n- 조은마트 1인 20,000원 이상 구매 시 리하우스 입퇴실 무료 픽업 가능\n※ 자세한 이용 문의는 조은마트로 부탁드립니다.",
+    "usageGuide": "※ 독채 객실이며 단독 데크를 제공하는 J Stay 신규 오픈하였습니다※\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 독채 객실이며 단독 데크를 제공하는 J Stay 신규 오픈하였습니다※\n\n[인원추가정보]\n[연령기준]\n- 성인: 14세 이상\n- 아동: 12개월 이상~14세 미만\n- 유아: 12개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 30,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n유아:0~12개월 미만,침구류미제공\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 숯불\n- 제공 구성: 숯, 장갑, 가위, 집게 등\n- 이용 요금: 2인 기준 25,000원 / 1인 추가시 5,000원(1박기준/현장결제)\n- 이용 시간: 제한없음\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n※ 날씨 및 현장 상황에 따라 이용이 제한될 수 있습니다.\n※ 숯불은 직접 점화해 사용하시는 점 참고 부탁드립니다.\n\n[애견동반]\n- 이용 객실: 블루룸, 그린룸\n- 이용 요금: 1마리 무료, 추가 1마리당 10kg 이하 30,000원 / 11kg ~ 30kg 40,000원 / 31kg 이상 50,000원 (1박기준/현장결제)\n- 제한 무게: 제한없음\n- 제한 마릿수: 최대 3마리\n- 애견 비품: 애견 침대, 식기 세트, 미끄럼방지 매트, 2단 계단, 배변 패드 2장, 수건 2장, 물티슈, 돌돌이, 청소기\n※ 사전 문의 부탁드립니다.\n※ 쾌적한 환경 유지를 위해 배변은 즉시 정리 부탁드립니다.\n※ 반려견의 안전과 다른 이용객을 위해 기본적인 관리 및 케어를 부탁드립니다.\n\n[불멍]\n- 이용 객실: 핑크룸, 퍼플룸, 피치룸을 제외한 전 객실\n- 제공 구성: 장작 1망, 마시멜로우\n- 이용 요금: 20,000원(1박기준/현장결제)\n※ 날씨 및 현장 상황에 따라 이용이 제한될 수 있습니다.\n\n[주차장]\n- 주자창 보유\n- 주차 대수: 객실 당 최대 3대\n- 위치: 펜션 앞\n\n[교통편]\n[ 춘천이지만, 가평과 더 가깝습니다 ]\n\n- 가평역 5분  자라섬 4분  남이섬 7분\n- 북한강 바로 앞\n※ 모두 차량 기준\n\n[오시는 길 안내]\n- 경강교를 건너 춘천 방면으로 바로 우회전해주세요.\n- 이마트24에서 약 50m 이동하면 리버문 파란 간판 맞은편 언덕 위에 리하우스가 있습니다.\n\n[뚜벅이 픽업 안내]\n- 조은마트 1인 20,000원 이상 구매 시 리하우스 입퇴실 무료 픽업 가능\n※ 자세한 이용 문의는 조은마트로 부탁드립니다.",
     "reservationGuide": "※ 독채 객실이며 단독 데크를 제공하는 J Stay 신규 오픈하였습니다※",
     "province": "도/시",
     "city": "시/군/구",
@@ -171,8 +171,8 @@
       {
         "id": "6ffab43f-828e-4bf0-8ab1-678224470a8b",
         "name": "서비스",
-        "description": "머무는 모든 순간이 편안하게 이어질 수 있도록\n세심한 준비로 공간의 완성도를 더했습니다.\n부담 없이 쉬어갈 수 있는 시간을 제공합니다.",
-        "usageGuide": "머무는 모든 순간이 편안하게 이어질 수 있도록\n세심한 준비로 공간의 완성도를 더했습니다.\n부담 없이 쉬어갈 수 있는 시간을 제공합니다.\n",
+        "description": "",
+        "usageGuide": "- 주자창 보유\n- 주차 대수: 객실 당 최대 3대\n- 위치: 펜션 앞",
         "displayOrder": 3,
         "images": [
           {
@@ -277,7 +277,7 @@
           {
             "id": "6b83bd11-af72-447b-8bab-9731c66098da",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/hu5MGqCU46Rn.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -287,7 +287,7 @@
           {
             "id": "8bc5630e-d541-4b78-b18a-888d68b47b57",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/TtoZAGnvQPu7.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -295,7 +295,7 @@
           {
             "id": "4a38f7f3-257f-45a5-a0e5-f090388c16b7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/QaRG6N5EomOd.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -303,7 +303,7 @@
           {
             "id": "80c1b682-c483-4c70-8bcf-2b97cfffb319",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/iDsj3OtRPGfq.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -311,7 +311,7 @@
           {
             "id": "2cc4401a-8e12-4da8-b25c-387b56d0db47",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/jop7NYxVSUZT.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -319,7 +319,7 @@
           {
             "id": "3b44b6e1-2048-445d-8f5b-871d6b9650cd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/1e7ogPV3E8Hd.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -327,7 +327,7 @@
           {
             "id": "3effe47c-3571-49a3-9e87-a0fbb0791f61",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/wStMPicZVBaE.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -335,7 +335,7 @@
           {
             "id": "c95785ea-a87d-478e-ae80-5519b84cb647",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/93b7dfTKDjFA.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -343,7 +343,7 @@
           {
             "id": "51d32eb7-96a1-461a-888a-28a019ef55c7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/9uo2jcznZbFW.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -351,7 +351,7 @@
           {
             "id": "5abde3d9-8dbb-4167-8a2c-32d3686a03dd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/PiLlI0DOuCde.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -359,7 +359,7 @@
           {
             "id": "488b6006-8d45-4db8-8ff5-5709b7211275",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/NhfgKGjzrbVY.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -367,7 +367,7 @@
           {
             "id": "11a91faa-aa33-4465-a545-75aafac53d38",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/W1H7GR0u5VEj.jpg",
-            "sortOrder": 12,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -2881,6 +2881,9 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
         }
       },
       "popup": {
@@ -4656,7 +4659,10 @@
           ],
           "nameEn": ""
         }
-      ]
+      ],
+      "footer": {
+        "ruralStayMark": null
+      }
     }
   }
 }
